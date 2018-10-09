@@ -1,6 +1,6 @@
 
-import java.util. Random;
-import java.util. Scanner;
+import java.util.Random;
+import java.util.Scanner;
 
 public class UhadniCislo {
     public static void main (String []args) {
